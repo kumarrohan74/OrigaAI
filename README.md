@@ -1,4 +1,4 @@
-# OrigaAI
+# OrigaAI Backend Assignment
 
 # Things Done
 1). Created Database with Users and Orders as collection names.
