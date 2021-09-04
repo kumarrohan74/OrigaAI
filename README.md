@@ -2,7 +2,7 @@
 
 # Things Done
 1). Created Database with Users and Orders as collection names.
-  a). Used connection string of mongodb atlas in the code to connect wiht mongodb.
+  a). Used connection string of mongodb atlas in the code to connect with mongodb.
   
 2). Inserted the given data in collections by using below api.
   a). http://localhost:5000/adduser with request object as 
